@@ -15,19 +15,20 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/102336587/160039288-570f956e-4d18-4e59-9d9d-b5783d7c0d8e.png)
 
 ## 作者
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信:
 
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+ ![image](https://user-images.githubusercontent.com/102336587/160039300-bb8d3f7b-9d04-4507-95d2-ae1bc2ebd9d7.png)
+
 
 
 
 ## 演示
  
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/102336587/160039293-13217db7-e7b5-4fdc-b723-be6dafda010d.png)
  
 
 ## 安装
@@ -38,21 +39,27 @@
 
 
 ## 截图
- ![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%A7%84%E5%88%99.png)
-![输入图片说明](demo/%E8%87%AA%E4%B9%A0%E5%AE%A4%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/%E5%82%A8%E7%89%A9%E6%9F%9C%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E5%A1%AB%E6%8A%A5%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%88%90.png)
+ ![image](https://user-images.githubusercontent.com/102336587/160039322-6aea084b-b800-4afd-84cc-3a53c1c22a6e.png)
+![image](https://user-images.githubusercontent.com/102336587/160039326-8b1e336c-44f1-49c2-bfc2-f82d905d6a0d.png)
+![image](https://user-images.githubusercontent.com/102336587/160039333-5a038973-32ae-4683-b106-26da34722b1f.png)
+![image](https://user-images.githubusercontent.com/102336587/160039339-38d4ff0b-df5c-4859-b4eb-cb1f5607090f.png)
+![image](https://user-images.githubusercontent.com/102336587/160039350-63d0387f-5d3a-475b-b32b-6df7e0e22242.png)
+
+![image](https://user-images.githubusercontent.com/102336587/160039365-b57a6cae-1b13-475e-81e8-5929c6d5c3d9.png)
+![image](https://user-images.githubusercontent.com/102336587/160039372-026e5b38-9d43-4beb-97fa-1c4ff0494773.png)
+![image](https://user-images.githubusercontent.com/102336587/160039377-9de4a4a5-4ddb-41fe-a941-c4a4cb061dfb.png)
 
 
 ## 后台管理系统截图
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
+ 
+![image](https://user-images.githubusercontent.com/102336587/160039386-66dba051-99dd-4433-b213-bcafad961b0b.png)
 
-![输入图片说明](demo/%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/%E5%B7%A5%E5%8D%95.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
+![image](https://user-images.githubusercontent.com/102336587/160039399-4bac6237-6ebd-42c4-99c5-08cb98c2fd81.png)
+
+![image](https://user-images.githubusercontent.com/102336587/160039404-3efd1f5e-cc36-4619-ab1f-94210eb00c78.png)
+
+![image](https://user-images.githubusercontent.com/102336587/160039410-7873a163-5ed9-4318-aba7-9697b2fc2d51.png)
+
+![image](https://user-images.githubusercontent.com/102336587/160039419-c139588f-db03-4a3b-a0fe-ffd9fcba7b3a.png)
+
+
